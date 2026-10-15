@@ -1,0 +1,8 @@
+# .gitignore
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+data/app.db
+.data/llm_cache/
